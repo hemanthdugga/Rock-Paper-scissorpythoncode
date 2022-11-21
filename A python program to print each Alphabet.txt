@@ -1,0 +1,391 @@
+#A program to print letter 'A'
+a=1
+while a<=5:
+    if a==1:
+        print("*****")
+    elif a==2:
+        print("*   *")
+    elif a==3:
+        print("*****")
+    elif a==4:
+        print("*   *")
+    elif a==5:
+        print("*   *")
+    a=a+1 
+
+#A program to print letter 'B'
+a=1
+while a<=5:
+    if a==1:
+        print("****")
+    elif a==2:
+        print("*   *")
+    elif a==3:
+        print("****")
+    elif a==4:
+        print("*   *")
+    elif a==5:
+        print("****")
+    a=a+1  
+
+#A program to print letter 'c'
+a=1
+while a<=5:
+    if a==1:
+        print("******")
+    elif a==2:
+        print("*    ")
+    elif a==3:
+        print("*    ")
+    elif a==4:
+        print("*    ")
+    elif a==5:
+        print("******")
+    a=a+1  
+
+#A program to print letter 'D'
+a=1
+while a<=5:
+    if a==1:
+        print("***")
+    elif a==2:
+        print("*    *")
+    elif a==3:
+        print("*     *")
+    elif a==4:
+        print("*    *")
+    elif a==5:
+        print("****")
+    a=a+1  
+
+#A program to print letter'E'
+a=1
+while a<=5:
+    if a==1:
+        print("*****")
+    elif a==2:
+        print("*")
+    elif a==3:
+        print("*****")
+    elif a==4:
+        print("*")
+    elif a==5:
+        print("*****")
+    a=a+1    
+
+#A program to print letter'F'
+a=1
+while a<=5:
+    if a==1:
+        print("*****")
+    elif a==2:
+        print("*")
+    elif a==3:
+        print("*****")
+    elif a==4:
+        print("*")
+    elif a==5:
+        print("*")
+    a=a+1  
+
+#A program to print letter'G'
+a=1
+while a<=5:
+    if a==1:
+        print("*****")
+    elif a==2:
+        print("*")
+    elif a==3:
+        print("*   **")
+    elif a==4:
+        print("******")
+    elif a==5:
+        print("     *")
+    a=a+1 
+
+#A program to print letter'H'
+a=1
+while a<=5:
+    if a==1:
+        print("*    *")
+    elif a==2:
+        print("*    *")
+    elif a==3:
+        print("******")
+    elif a==4:
+        print("*    *")
+    elif a==5:
+        print("*    *")
+    a=a+1 
+
+#A program to print letter'I'
+a=1
+while a<=5:
+    if a==1:
+        print("*****")
+    elif a==2:
+        print("  *  ")
+    elif a==3:
+        print("  *  ")
+    elif a==4:
+        print("  *  ")
+    elif a==5:
+        print("*****")
+    a=a+1 
+
+#A program to print letter'J'
+a=1
+while a<=5:
+    if a==1:
+        print("*****")
+    elif a==2:
+        print("  *  ")
+    elif a==3:
+        print("  *  ")
+    elif a==4:
+        print("  *  ")
+    elif a==5:
+        print("***")
+    a=a+1 
+
+#A program to print letter'K'
+a=1
+while a<=5:
+    if a==1:
+        print("*    *")
+    elif a==2:
+        print("*   * ")
+    elif a==3:
+        print("***    ")
+    elif a==4:
+        print("*   *")
+    elif a==5:
+        print("*    *")
+    a=a+1 
+
+#A program to print letter'L'
+a=1
+while a<=5:
+    if a==1:
+        print("*    ")
+    elif a==2:
+        print("*   ")
+    elif a==3:
+        print("*    ")
+    elif a==4:
+        print("*   ")
+    elif a==5:
+        print("*****")
+    a=a+1 
+
+#A program to print letter'M'
+a=1
+while a<=5:
+    if a==1:
+        print("*     *")
+    elif a==2:
+        print("**   **  ")
+    elif a==3:
+        print("*  *  *")
+    elif a==4:
+        print("*     *")
+    elif a==5:
+        print("*     *")
+    a=a+1 
+
+#A program to print letter'N'
+a=1
+while a<=5:
+    if a==1:
+        print("*      *")
+    elif a==2:
+        print("* *    *")
+    elif a==3:
+        print("*   *  *")
+    elif a==4:
+        print("*      *")
+    elif a==5:
+        print("*      *")
+    a=a+1 
+
+#A program to print letter'O'
+a=1
+while a<=5:
+    if a==1:
+        print(" ***")
+    elif a==2:
+        print("*   *")
+    elif a==3:
+        print("*   *")
+    elif a==4:
+        print("*   *")
+    elif a==5:
+        print(" ***  ")
+    a=a+1 
+
+#A program to print letter'P'
+a=1
+while a<=5:
+    if a==1:
+        print("*****")
+    elif a==2:
+        print("*    *")
+    elif a==3:
+        print("* * *")
+    elif a==4:
+        print("*")
+    elif a==5:
+        print("*")
+    a=a+1 
+
+#A program to print letter'Q'
+a=1
+while a<=6:
+    if a==1:
+        print(" ***")
+    elif a==2:
+        print("*   *")
+    elif a==3:
+        print("*   *")
+    elif a==4:
+        print("* * *")
+    elif a==5:
+        print(" ***  ")
+    elif a==6:
+        print("    *")
+    a=a+1 
+
+#A program to print letter'R'
+a=1
+while a<=5:
+    if a==1:
+        print("*****")
+    elif a==2:
+        print("*    *")
+    elif a==3:
+        print("* * *")
+    elif a==4:
+        print("*  * ")
+    elif a==5:
+        print("*    *")
+    a=a+1 
+
+#A program to print letter'S'
+a=1
+while a<=5:
+    if a==1:
+        print("  ***")
+    elif a==2:
+        print("*    ")
+    elif a==3:
+        print("* * *")
+    elif a==4:
+        print("     *")
+    elif a==5:
+        print("*****")
+    a=a+1 
+
+#A program to print letter'T'
+a=1
+while a<=5:
+    if a==1:
+        print("*****")
+    elif a==2:
+        print("  *")
+    elif a==3:
+        print("  *")
+    elif a==4:
+        print("  *")
+    elif a==5:
+        print("  *")
+    a=a+1 
+
+#A program to print letter'U'
+a=1
+while a<=5:
+    if a==1:
+        print("*      *")
+    elif a==2:
+        print("*      *")
+    elif a==3:
+        print("*      *")
+    elif a==4:
+        print("*      *")
+    elif a==5:
+        print("*******")
+    a=a+1 
+
+#A program to print letter 'V'
+a=1
+while a<=5:
+    if a==1:
+        print("*         *")
+    elif a==2:
+        print(" *       *")
+    elif a==3:
+        print("  *     *  ")
+    elif a==4:
+        print("   *   *   ")
+    elif a==5:
+        print("     *")
+    a=a+1
+
+#A program to print letter 'W'
+a=1
+while a<=5:
+    if a==1:
+        print("*         *          *")
+    elif a==2:
+        print(" *       *  *       *")
+    elif a==3:
+        print("  *     *    *     *")
+    elif a==4:
+        print("   *   *      *  *")
+    elif a==5:
+        print("     *         *")
+    a=a+1
+
+#A program to print letter 'X'
+a=1
+while a<=5:
+    if a==1:
+        print("*       *")
+    elif a==2:
+        print(" *    *")
+    elif a==3:
+        print("   * *")
+    elif a==4:
+        print("  *   *")
+    elif a==5:
+        print("*       *")
+    a=a+1
+
+#A program to print letter 'Y'
+a=1
+while a<=5:
+    if a==1:
+        print("*       *")
+    elif a==2:
+        print(" *    *")
+    elif a==3:
+        print("   *   ")
+    elif a==4:
+        print("   *   ")
+    elif a==5:
+        print("   *     ")
+    a=a+1
+
+#A program to print letter 'Z'
+a=1
+while a<=5:
+    if a==1:
+        print("******")
+    elif a==2:
+        print("     *")
+    elif a==3:
+        print("    *")
+    elif a==4:
+        print("   *")
+    elif a==5:
+        print("******")
+    a=a+1
